@@ -8,10 +8,12 @@ I'm enjoying working with Angular using Browserify, but couldn't find the angula
 
 ```
 $ npm install --save angular-router-browserify
+```
 
 ```js
 var angular = require('angular');
 require('angular-router-browserify')(angular)
 
+// zomg this works now
 var app = angular.module('myApp', ['ngRoute']);
 ```
