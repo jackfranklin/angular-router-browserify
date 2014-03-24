@@ -1,0 +1,8 @@
+{
+  "name": "angular-router-browserify",
+  "version": "0.0.1",
+  "description": "Angular's router module for use with Browserify",
+  "main": "index.js",
+  "author": "Jack Franklin",
+  "license": "ISC"
+}
